@@ -4,6 +4,8 @@ Go To Releases And Download the Latest One for best experience
 
 **Download dependencies**
 
-```npm i```
+```js
+npm i```
 
-```npm i discord-rpc```
+```js
+npm i discord-rpc```
