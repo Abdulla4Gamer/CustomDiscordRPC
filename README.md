@@ -12,3 +12,4 @@ npm i
 ```js
 npm i discord-rpc
 ```
+
