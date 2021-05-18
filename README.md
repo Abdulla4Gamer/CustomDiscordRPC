@@ -2,7 +2,7 @@ Custom Discord RPC
 
 Go To Releases And Download the Latest One for best experience
 
-you need a little js experience
+you need a little js coding experience
 
 # Download dependencies
 
